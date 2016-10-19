@@ -6,3 +6,11 @@
 2.改groupId为：lm.com.101tec
 
 3.改version为1.0
+
+引用方式：
+
+\<dependency><br />
+  \<groupId>lm.com.101tec\</groupId><br />
+  \<artifactId>zkclient\</artifactId><br />
+  \<version>${lm-zkclient.version}\</version><br />
+\</dependency>
